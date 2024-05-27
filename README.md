@@ -212,7 +212,7 @@
     </style>
 </head>
 <body>
-    <h1>Flag of Philippines</h1>
+    <h1>Flag of the Philippines</h1>
     <div class="flag">
         <div class="blue"></div>
         <div class="red"></div>
